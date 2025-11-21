@@ -3,8 +3,6 @@
 > **Have you ever wondered whether your password is strong or weak?**
 > This is a Python-based tool designed to analyze password security based on length, character types, and complexity.
 
-## 🚀 How to Use
-
 ### 👩‍💻 For Developers (Source Code)
 Check out the **Python logic** to see how I implemented the security algorithms using Regex and Tkinter.
 - Navigate to the `python file` folder.
